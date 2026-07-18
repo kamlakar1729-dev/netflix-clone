@@ -1,10 +1,10 @@
 import React from 'react'
 import './Navbar.css'
-import logo from '../../Assets/logo.png'
-import search from '../../Assets/search_icon.svg'
-import bell from '../../Assets/bell_icon.svg'
-import profile from '../../Assets/profile_img.png'
-import caret_icon from '../../Assets/caret_icon.svg'
+import logo from '../../assets/logo.png'
+import search from '../../assets/search_icon.svg'
+import bell from '../../assets/bell_icon.svg'
+import profile from '../../assets/profile_img.png'
+import caret_icon from '../../assets/caret_icon.svg'
 import {logout} from '../../firebase'
 const Navbar = () => {
   return (
